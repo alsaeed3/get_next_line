@@ -1,0 +1,1 @@
+A project I made in C languge, that I made in it a function that will extract a line from a file using the file descriptor of it, it will extract the next line of the text with every call of the function.
